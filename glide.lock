@@ -1,0 +1,13 @@
+hash: 406886bc77086dc339111e77437a21f4462c1160655f8957449295d3b5f2f7b0
+updated: 2016-02-23T22:26:12.200805462+01:00
+imports:
+- name: golang.org/x/crypto
+  version: 803f01ea27e23d998825ec085f0d153cac01c828
+  subpackages:
+  - ssh
+  - curve25519
+- name: golang.org/x/net
+  version: 0899459b4d84739aa2600ba248120318d78f8997
+  subpackages:
+  - websocket
+devImports: []
